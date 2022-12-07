@@ -1,16 +1,23 @@
-### Hi there 👋
+# ✨✨✨간지나는 CSS로 만든 최상단 배너✨✨✨
+<br>
 
-<!--
-**MellDa1024/MellDa1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋인사말👋  
+#### ✨쓸데없이 전문적인 용어로 자기소개✨  
+<br>
 
-Here are some ideas to get you started:
+## 🛠작업한/작업중인 프로젝트🛠
+#### ✨대충 거창해 보이지만 사실 별거 아닌 프로젝트들✨  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻사용하는 프로그래밍 언어💻
+#### ✨10~11개의 프로그래밍 언어 뱃지가 있지만 제대로 할 줄 아는건 없음✨  
+<br>
+
+> 인스타그램 트위터 페북등 허세용 SNS
+
+> 깃헙 위젯 뭐시기  
+
+> Contribute&Pull Request 통계(대다수가 typo fix)
+
+> 어차피 아무도 안봐서 나중에 통계 확인하면 두자릿수 찍힐꺼지만 설치해놓은 힛 카운터
+
